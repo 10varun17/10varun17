@@ -2,7 +2,6 @@
 
 ###
 
-# 💫 About Me:
 I'm from Nepal and my interests lie in Physics, Engineering, and Robotics. Specifically, I am interested in control theory and multi-agent robotics.<br><br>- 🔭 I’m currently an undergraduate student at the University of Richmond.<br>- 📚 I'm currently learning Machine Learning.<br>- ⚡ In my free time, I learn new tech.
 
 # 🛠️ Tech Skills:
