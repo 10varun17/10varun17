@@ -2,7 +2,7 @@
 
 ###
 
-I'm from Nepal and my interests lie in Physics, Engineering, and Robotics. Specifically, I am interested in control theory and multi-agent robotics.<br><br>- 🔭 I’m currently an undergraduate student at the University of Richmond.
+I'm from Nepal, and I am an aspiring Roboticist. <br><br>- 🔭 I’m an undergraduate student at the University of Richmond. <br><br>- 💡I’m currently learning State Estimation.
 
 # 🛠️ Tech Skills:
 
@@ -33,8 +33,3 @@ I'm from Nepal and my interests lie in Physics, Engineering, and Robotics. Speci
 
 ## 🔄 Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 🔥 My Stats :
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=10varun17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
