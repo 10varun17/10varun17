@@ -2,7 +2,7 @@
 
 ###
 
-I'm from Nepal, and I am an aspiring Roboticist. <br><br>- 🔭 I’m an undergraduate student at the University of Richmond. <br><br>- 💡I’m currently learning State Estimation.
+I'm from Nepal, and I am an aspiring Roboticist. <br><br>- 🔭 I’m an undergraduate student at the University of Richmond. <br><br>
 
 # 🛠️ Tech Skills:
 
