@@ -1,9 +1,10 @@
 # Hi 👋, I'm Varun Rayamajhi
-## 🤖 Aspiring Roboticist | Computer Science Student | Research Enthusiast
-I'm from Nepal, currently pursuing my passion for robotics at the University of Richmond. I'm particularly interested in multi-agent robotic systems, control algorithms, and the intersection of machine learning with robotics.
+## 🤖 Robotics | Aspiring farmer
+I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://10varun17.github.io/varun.github.io/) for more information.
+
 ### 🎓 Education
 - **B.S. Computer Science** @ University of Richmond (Expected May 2027)
-- **Visiting Student** @ University of Edinburgh, Department of Informatics (2025-2026)
+- **Visiting Student** @ University of Edinburgh, School of Informatics (2025-2026)
 - **Minors:** Physics & Mathematics
 ---
 ## 🛠️ Tech Stack
