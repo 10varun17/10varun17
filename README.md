@@ -1,6 +1,6 @@
 # Hi 👋, I'm Varun Rayamajhi
 ## 🤖 Robotics | Aspiring farmer
-I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://10varun17.github.io/varun.github.io/) for more information.
+I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://varunrayamajhi.com/) for more information.
 
 ### 🎓 Education
 - **B.S. Computer Science** @ University of Richmond (Expected May 2027)
