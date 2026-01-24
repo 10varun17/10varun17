@@ -1,5 +1,5 @@
 # Hi 👋, I'm Varun Rayamajhi
-## 🤖 Robotics | Aspiring farmer
+## 🤖 Robotics 
 I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://varunrayamajhi.com/) for more information.
 
 ### 🎓 Education
