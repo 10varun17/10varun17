@@ -2,6 +2,9 @@
 ## 🤖 Robotics 
 I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://varunrayamajhi.com/) for more information.
 
+**Collaboration:** Looking for collaboration in multi-agent search-and-rescue project, beginning April 2026. Feel free to contact.
+**Help:** Looking for some help with control barrier functions in multi-agent systems.
+
 ### 🎓 Education
 - **B.S. Computer Science** @ University of Richmond (Expected May 2027)
 - **Visiting Student** @ University of Edinburgh, School of Informatics (2025-2026)
