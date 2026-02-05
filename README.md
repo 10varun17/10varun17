@@ -68,6 +68,4 @@ I'm from Nepal, currently pursuing my undergraduate degree in Computer Science a
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=10varun17&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10varun17&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
 </div>
