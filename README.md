@@ -2,11 +2,15 @@
 ## 🤖 Robotics 
 I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://varunrayamajhi.com/) for more information.
 
-## **Collaboration:**
-Looking for collaboration in multi-agent search-and-rescue project, beginning April 2026. Feel free to contact.
+---
 
-## **Help:** 
-Looking for some help with control barrier functions in multi-agent systems.
+## 🤝 **Collaboration**
+> 💡 **Looking for collaboration in multi-agent search-and-rescue project, beginning April 2026.** Feel free to contact.
+
+## 🆘 **Help** 
+> 🔍 **Looking for some help with control barrier functions in multi-agent systems.**
+
+---
 
 ### 🎓 Education
 - **B.S. Computer Science** @ University of Richmond (Expected May 2027)
@@ -26,7 +30,6 @@ Looking for some help with control barrier functions in multi-agent systems.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6600.svg?style=for-the-badge&logo=gazebo&logoColor=white)
 
 ### 📊 Scientific Computing & Analysis
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -55,4 +58,14 @@ Looking for some help with control barrier functions in multi-agent systems.
 ## 🏆 Professional Memberships
 - Institute of Electrical and Electronics Engineers (IEEE)
 - IEEE Robotics and Automation Society
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunrayamajhi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunrayamajhi&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunrayamajhi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
