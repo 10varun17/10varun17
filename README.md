@@ -2,16 +2,6 @@
 ## 🤖 Robotics 
 I'm from Nepal, currently pursuing my undergraduate degree in Computer Science at the University of Richmond. Visit [here](https://varunrayamajhi.com/) for more information.
 
----
-
-## 🤝 **Collaboration**
-> 💡 **Looking for collaboration in multi-agent search-and-rescue project, beginning April 2026.** Feel free to contact.
-
-## 🆘 **Help** 
-> 🔍 **Looking for some help with control barrier functions in multi-agent systems.**
-
----
-
 ### 🎓 Education
 - **B.S. Computer Science** @ University of Richmond (Expected May 2027)
 - **Visiting Student** @ University of Edinburgh, School of Informatics (2025-2026)
@@ -51,21 +41,19 @@ I'm from Nepal, currently pursuing my undergraduate degree in Computer Science a
 ![Eagle](https://img.shields.io/badge/Eagle-%232C2C2C.svg?style=for-the-badge&logo=eagle&logoColor=white)
 ---
 ## 🎯 Research Interests
-- **Multi-Agent Robotics Systems**
-- **Control Algorithms & Optimization**
-- **Machine Learning in Robotics**
+- **Optimal Control**
+- **Safety-critical robotics**
+- **Multi-agent robotics**
 
 ## 🏆 Professional Memberships
 - Institute of Electrical and Electronics Engineers (IEEE)
 - IEEE Robotics and Automation Society
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10varun17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=10varun17&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
