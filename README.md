@@ -5,7 +5,6 @@ I'm from Nepal, currently pursuing my undergraduate degree in Computer Science a
 ### 🎓 Education
 - **B.S. Computer Science** @ University of Richmond (Expected May 2027)
 - **Visiting Student** @ University of Edinburgh, School of Informatics (2025-2026)
-- **Minors:** Physics & Mathematics
 ---
 ## 🛠️ Tech Stack
 ### 🌐 Languages
@@ -42,8 +41,9 @@ I'm from Nepal, currently pursuing my undergraduate degree in Computer Science a
 ---
 ## 🎯 Research Interests
 - **Optimal Control**
-- **Safety-critical robotics**
+- **Safety-critical control**
 - **Multi-agent robotics**
+- **(Multi-agent) Reinforcement Learning**
 
 ## 🏆 Professional Memberships
 - Institute of Electrical and Electronics Engineers (IEEE)
